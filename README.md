@@ -18,54 +18,20 @@ Currently working as a **Utility Analyst**, but I’m always curious about every
 
 ### 🧰 Tech Toolbox
 
-<div align="left">
+### 🧰 Tech Toolbox
 
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-    <div>Python</div>
-  </div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+</p>
 
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-    <div>Java</div>
-  </div>
-
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-    <div>HTML</div>
-  </div>
-
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-    <div>CSS</div>
-  </div>
-
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-    <div>JavaScript</div>
-  </div>
-
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-    <div>SQL</div>
-  </div>
-
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40"/>
-    <div>Power BI</div>
-  </div>
-
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-    <div>Git</div>
-  </div>
-
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-    <div>GitHub</div>
-  </div>
-
-</div>
 
 
 
