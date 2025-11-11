@@ -14,13 +14,60 @@ Currently working as a **Utility Analyst**, but I’m always curious about every
 ---
 
 ### 🧰 Tech Toolbox
+### 🧰 Tech Toolbox
+
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/> 
+  <figure style="display:inline-block; text-align:center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+    <figcaption>Python</figcaption>
+  </figure>
+
+  <figure style="display:inline-block; text-align:center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+    <figcaption>Java</figcaption>
+  </figure>
+
+  <figure style="display:inline-block; text-align:center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+    <figcaption>HTML</figcaption>
+  </figure>
+
+  <figure style="display:inline-block; text-align:center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+    <figcaption>CSS</figcaption>
+  </figure>
+
+  <figure style="display:inline-block; text-align:center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+    <figcaption>JavaScript</figcaption>
+  </figure>
+
+  <figure style="display:inline-block; text-align:center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+    <figcaption>SQL</figcaption>
+  </figure>
+
+  <figure style="display:inline-block; text-align:center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+    <figcaption>Git</figcaption>
+  </figure>
+
+  <figure style="display:inline-block; text-align:center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+    <figcaption>GitHub</figcaption>
+  </figure>
+
+  <figure style="display:inline-block; text-align:center; margin: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40"/>
+    <figcaption>Power BI</figcaption>
+  </figure>
+
+  <figure style="display:inline-block; text-align:center; margin: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Microsoft_Fabric_logo.svg" width="40" height="40"/>
+    <figcaption>Microsoft Fabric</figcaption>
+  </figure>
 </p>
+
 
 I enjoy exploring new areas in **frontend**, **backend**, or **data analysis**
 
