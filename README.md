@@ -16,57 +16,57 @@ Currently working as a **Utility Analyst**, but I’m always curious about every
 ### 🧰 Tech Toolbox
 ### 🧰 Tech Toolbox
 
-<p align="left">
-  <figure style="display:inline-block; text-align:center; margin: 10px;">
+### 🧰 Tech Toolbox
+
+<div align="left">
+
+  <div style="display: inline-block; text-align: center; margin: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-    <figcaption>Python</figcaption>
-  </figure>
+    <div>Python</div>
+  </div>
 
-  <figure style="display:inline-block; text-align:center; margin: 10px;">
+  <div style="display: inline-block; text-align: center; margin: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-    <figcaption>Java</figcaption>
-  </figure>
+    <div>Java</div>
+  </div>
 
-  <figure style="display:inline-block; text-align:center; margin: 10px;">
+  <div style="display: inline-block; text-align: center; margin: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-    <figcaption>HTML</figcaption>
-  </figure>
+    <div>HTML</div>
+  </div>
 
-  <figure style="display:inline-block; text-align:center; margin: 10px;">
+  <div style="display: inline-block; text-align: center; margin: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-    <figcaption>CSS</figcaption>
-  </figure>
+    <div>CSS</div>
+  </div>
 
-  <figure style="display:inline-block; text-align:center; margin: 10px;">
+  <div style="display: inline-block; text-align: center; margin: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-    <figcaption>JavaScript</figcaption>
-  </figure>
+    <div>JavaScript</div>
+  </div>
 
-  <figure style="display:inline-block; text-align:center; margin: 10px;">
+  <div style="display: inline-block; text-align: center; margin: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-    <figcaption>SQL</figcaption>
-  </figure>
+    <div>SQL</div>
+  </div>
 
-  <figure style="display:inline-block; text-align:center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-    <figcaption>Git</figcaption>
-  </figure>
-
-  <figure style="display:inline-block; text-align:center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-    <figcaption>GitHub</figcaption>
-  </figure>
-
-  <figure style="display:inline-block; text-align:center; margin: 10px;">
+  <div style="display: inline-block; text-align: center; margin: 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40"/>
-    <figcaption>Power BI</figcaption>
-  </figure>
+    <div>Power BI</div>
+  </div>
 
-  <figure style="display:inline-block; text-align:center; margin: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Microsoft_Fabric_logo.svg" width="40" height="40"/>
-    <figcaption>Microsoft Fabric</figcaption>
-  </figure>
-</p>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+    <div>Git</div>
+  </div>
+
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+    <div>GitHub</div>
+  </div>
+
+</div>
+
 
 
 I enjoy exploring new areas in **frontend**, **backend**, or **data analysis**
