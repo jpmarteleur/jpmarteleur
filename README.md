@@ -40,6 +40,6 @@ I like keeping things simple, organized, and focused on learning something new e
 ---
 
 ### ✨ A Quote I Like
-> “The difference between ordinary and extraordinary is that little extra.”
+> “The only place success comes before work is in the dictionary.”
 
 ---
