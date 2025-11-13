@@ -8,7 +8,6 @@ Currently working as a **Utility Analyst**, but I’m always curious about every
 ### 💡 About Me
 - 🌍 Originally from **Uruguay** 
 - ⛳️ Played **DII college golf** and love all kinds of sports  
-- 💪 Enjoy spending time at the **gym** and staying active  
 - 🧠 Always eager to **learn new technologies** and improve my skills  
 
 ---
