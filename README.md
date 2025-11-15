@@ -5,14 +5,14 @@ Currently working as a **Utility Analyst**, but I’m always curious about every
 
 ---
 
-### 💡 About Me
+### About Me
 - 🌍 Originally from **Uruguay** 
 - ⛳️ Played **DII college golf** and love all kinds of sports  
 - 🧠 Always eager to **learn new technologies** and improve my skills  
 
 ---
 
-### 🧰 Tech Toolbox
+### Tech Toolbox
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
@@ -32,13 +32,13 @@ I enjoy exploring new areas in **frontend**, **backend**, or **data analysis**
 
 ---
 
-### ⚙️ What You’ll Find Here
+### What You’ll Find Here
 This space is where I share personal projects, experiments, and small ideas that help me grow as a developer.  
 I like keeping things simple, organized, and focused on learning something new each time.
 
 ---
 
-### ✨ A Quote I Like
+### A Quote I Like
 > “The only place success comes before work is in the dictionary.”
 
 ---
